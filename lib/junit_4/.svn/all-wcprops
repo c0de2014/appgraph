@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/appgraph/!svn/ver/6/lib/junit_4
+END
+hamcrest-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/appgraph/!svn/ver/6/lib/junit_4/hamcrest-core.jar
+END
+junit-4.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/appgraph/!svn/ver/6/lib/junit_4/junit-4.6.jar
+END
